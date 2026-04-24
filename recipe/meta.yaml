@@ -11,7 +11,7 @@ source:
   patches:
     - patches/001-patch-cmake-config-path.patch
 build:
-  number: 1
+  number: 2
 
 requirements:
   build:
